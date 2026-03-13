@@ -1,4 +1,4 @@
-# 🚀 Cloner Albóndiga Telegram
+# 🚀 Cloner Telegram
 
 <p align="center"> <img src="image.png" width="700" alt="preview"> </p>  
 <p align="center"> <b>🔥 Clona mensajes de Telegram de forma automática, rápida y eficiente 🔥</b> </p>  
