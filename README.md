@@ -19,7 +19,7 @@
 
 ## 🧠 Descripción
 
-**Cloner Albóndiga Telegram** es una herramienta avanzada diseñada para clonar mensajes entre chats de Telegram de forma automatizada.
+**Cloner Telegram** es una herramienta avanzada diseñada para clonar mensajes entre chats de Telegram de forma automatizada.
 
 💡 Pensado para usuarios que necesitan:
 
@@ -77,7 +77,7 @@ Ejecuta el programa y utiliza el menú interactivo:
 
 ## 📁 Estructura del proyecto
 
-📦 Cloner-Telegram-Albondiga
+📦 Cloner-Telegram
 ┣ 📂 assets
 ┃ ┗ image.png
 ┣ 📄 cloner.py
